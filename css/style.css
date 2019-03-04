@@ -1,0 +1,73 @@
+body{
+    background:#EDF6D3;
+    font-family: Cambria;
+}
+
+#contact{
+    background-color:#ED4747;
+    color:white;
+    font-family: Georgia;
+    padding-left:15px;
+    padding-top:70px;
+    padding-bottom:10px;
+}
+
+#link:link{
+    color:white;
+    text-decoration: none;
+}
+
+#link:visited{
+    color: yellow;
+    text-decoration: none;
+}
+
+#link:hover{
+    color:blue;
+    text-decoration: none;
+}
+
+#link:active{
+    color:white;
+    text-decoration: none;
+}
+
+
+.menu{
+    background-color: #ED4747;
+    border-radius:70px;
+    padding-left:5px;
+    width:150px;
+    text-align:center;
+    color:white;
+}
+
+hr{
+    border-top: 2px dotted red;
+}
+
+ul{
+     list-style-type: square;
+}
+
+#picture{
+    border-radius: 60%;
+}
+
+
+#home{
+    background-color:#ED4747;
+    color:white;
+    font-family: Georgia;
+    padding-left:15px;
+    padding-top:70px;
+    padding-bottom:10px;
+}
+
+#details{
+    background-color:#ED4747;
+    color:white;
+    padding-top:10px;
+    padding-left:10px;
+    padding-bottom:10px;
+}
