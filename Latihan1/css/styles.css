@@ -1,0 +1,184 @@
+#container{
+  width: 85%;
+  margin: auto;
+}
+#header{
+  padding-top: 20px;;
+  background-color:#d5eae9;
+}
+
+#footer{
+  font-family: "Lucida Console", Monaco, monospace;
+  background-color: #51c1b9;
+}
+
+#text1 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  color: #28b7ba;
+}
+
+#text2 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: center;
+  color: #28b7ba;
+}
+
+#text3 {
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top:40px;
+  width: 50%;
+  padding-bottom: 10px;
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: center;
+  color: #28b7ba;
+}
+
+#text4 {
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top:40px;
+  width: 50%;
+  padding: 10px;
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: center;
+  color: #28b7ba;
+}
+
+#text5 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: center;
+  color: #28b7ba;
+}
+
+#text6 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  color: #28b7ba;
+}
+
+#u {
+  font-family: "Lucida Console", Monaco, monospace;
+  text-decoration: underline;
+}
+
+a{
+  color: grey;
+}
+
+#subtext1 {
+  font-family: "Lucida Console", Monaco, monospace;
+  color: #28b7ba;
+}
+
+#subtext2 {
+  font-family: "Lucida Console", Monaco, monospace;
+  color: #28b7ba;
+}
+
+#paragraph1 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#paragraph2 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#image1 {
+  display: block;
+  margin-left: auto;
+  margin-right: 300px;
+  margin-bottom: 40px;
+  width: 15%;
+}
+
+#image2 {
+  display: block;
+  margin-left: 250px;
+  margin-right: auto;
+  margin-top: 40px;
+  width: 15%;;
+}
+
+#image3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+#image4 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  width: 15%;
+}
+
+#image5 {
+  width: 75%;
+}
+
+#image6 {
+  width: 50%;
+  margin-left: 50%;
+}
+
+
+#hr1{
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+#hr2{
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+
+#table1{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+#table2{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+#table3{
+  margin: auto;
+}
+
+#button {
+  margin-bottom: 40px;
+  text-align: center;
+  color: white;
+}
+
+.copyright{
+  margin: auto;
+  width: 50%;
+  padding: 30px;
+  text-align: center;
+  color: white;
+}
