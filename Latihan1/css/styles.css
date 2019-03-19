@@ -16,6 +16,8 @@
   margin: auto;
   width: 50%;
   padding: 10px;
+  font-family: freestyle script;
+  font-size:70px;
   text-align: center;
   color: #28b7ba;
 }
@@ -143,13 +145,19 @@ a{
 
 
 #hr1{
-  margin-top: 60px;
-  margin-bottom: 60px;
+  border: 0px;
+  line-height:2px;
+  margin-left: 480px;
+  margin-right: 480px;
+  border-top:9px dotted whitesmoke;
 }
 
 #hr2{
-  margin-top: 60px;
-  margin-bottom: 60px;
+  border: 0px;
+  line-height:2px;
+  margin-left: 480px;
+  margin-right: 480px;
+  border-top:9px dotted whitesmoke;
 }
 
 
