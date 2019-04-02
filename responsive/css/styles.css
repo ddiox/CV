@@ -1,0 +1,42 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color:#EDF6D3;
+}
+#image1{
+    width:20%;
+}
+
+#heading1{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#text1{
+    font-size: 20px;
+    font-family: Cambria;
+}
+
+#table1{
+  margin: auto;
+}
+
+#header{
+  background-color:#ED4747;
+  color:white;
+}
+
+.footer-link{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 16px;
+    color:black;
+    text-align: center;
+  }
+  
+  .footer-link:hover{
+    color:#EDF6D3;
+    text-decoration: none;
+  }
+  
